@@ -5,7 +5,7 @@
     "components-bootstrap": "~3.3.6",
     "components-font-awesome": "~4.5.0",
     "jquery": "~2.2.3",
-    "highlightjs": "~9.2.0",
+    "highlightjs": "highlightjs",
     "handlebars": "~4.0.5",
     "keymaster": "madrobby/keymaster",
     "ace-builds": "~1.2.3",
